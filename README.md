@@ -1,7 +1,11 @@
 Name: SHARMILA DEVI.M
+
 Company: CODEALPHA
+
 ID: CA/JU1/11331
+
 Domain: FRONTEND DEVELOPMENT
+
 Duration:10th JUNE- 10th JULY
 
 overview
