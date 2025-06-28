@@ -16,7 +16,7 @@ Introduction
 
 The application is entirely built using HTML, CSS, and JavaScript. HTML is used to structure the calculator layout, CSS is applied for styling and responsive design, and JavaScript handles the logic for input management, operations, and output display.
 
-Core Features of Advanced and Powerful Web Calculator:
+Core Features of Calculator:
 
 Arithmetic Operations: The calculator supports all standard arithmetic operations. Users can perform addition, subtraction, multiplication, and division efficiently using on-screen buttons or keyboard input.
 Display Functionality: The application provides a dynamic display area where input expressions and output results are shown in real time. It handles multi-digit numbers and allows sequential operations. The clear button resets the entire input and output screen.
